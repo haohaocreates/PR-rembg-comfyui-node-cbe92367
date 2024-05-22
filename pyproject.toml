@@ -1,0 +1,15 @@
+[project]
+name = "rembg-comfyui-node"
+description = "Nodes: Image Remove Background (rembg)"
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["rembg"]
+
+[project.urls]
+Repository = "https://github.com/Jcd1230/rembg-comfyui-node"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "rembg-comfyui-node"
+Icon = ""
